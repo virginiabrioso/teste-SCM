@@ -13,5 +13,5 @@ clonaRepo()
 ###
 # Main body of script starts here
 ###
-echo "Testing..."
-clonaRepo teste-SCM virginiabrioso main
+# echo "Testing..."
+# clonaRepo teste-SCM virginiabrioso main
